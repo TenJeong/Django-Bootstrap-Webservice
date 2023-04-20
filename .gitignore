@@ -8,6 +8,7 @@ venv.bak/
 
 .idea/
 migrations/
+_media/
 
 *.log
 local_settins.py
