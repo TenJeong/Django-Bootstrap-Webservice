@@ -38,8 +38,12 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django_extensions',
+
+    # External library
     'crispy_forms',
     'crispy_bootstrap4',
+    'markdownx',
+
     'blog',
     'single_pages',
 ]
